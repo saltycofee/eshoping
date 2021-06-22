@@ -1,0 +1,6 @@
+.customer-chat-content .customer-chat-content-message-input-field, a.select-department,.customer-chat-content .customer-chat-content-button, .customer-chat-content .customer-chat-content-button:active{border-radius:0}
+.customer-chat-content-button,.customer-chat-content .customer-chat-content-button:active{background: #ff6f00 !important;border-color:#ff6f00 !important}
+.customer-chat-content-button:hover{background:#013e5a !important;border-color:#013e5a !important}
+.customer-chat-header{background: #013e5a;}
+.customer-chat-content .customer-chat-content-message-input-field{border-left-width:3px; border-left-color:#013e5a}
+.customer-chat-widget.contact-form #customer-chat-content-contact-form{padding-top:20px;}
